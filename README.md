@@ -22,11 +22,6 @@ Rossmann mağazalarının gündəlik satışını proqnozlaşdırmaq üçün hyb
 Fayllar repozitoriyaya daxil deyil. Buradan yükləyin: https://www.kaggle.com/c/rossmann-store-sales/data
 `train.csv` və `store.csv` notebook ilə eyni qovluqda olmalıdır.
 
-## Quraşdırma
-```
-pip install pandas matplotlib prophet xgboost
-```
-
 ## Fayllar
 - `Prophet and XGBoost for Demand Forecasting.ipynb`: əsas notebook
 - `note.md`: qərarlar və nəticə
